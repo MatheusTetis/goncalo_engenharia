@@ -1,0 +1,28 @@
+.lista-personalizada ul {
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.16;
+    white-space: pre-line;
+    letter-spacing: -0.03em;
+    text-rendering: optimizeLegibility;
+    color: #fff;
+    text-align: left;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.lista-personalizada ul a {
+    font-size: 1.5rem;
+}
+
+.lista-ulersonalizada.pequeno ul {
+    font-size: 1rem;
+    letter-spacing: 0;
+    line-height: 1.5;
+}
+
+.lista-personalizada.medio ul {
+    font-size: 2rem;
+    letter-spacing: 0;
+    line-height: 1.5;
+}
