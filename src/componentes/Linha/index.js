@@ -1,6 +1,6 @@
 const Linha = (props) => {
     return (
-        <div className="row justify-content-between align-items-center">
+        <div className="row justify-content-between align-items-center row-cols-sm-1">
             {props.children}
         </div>
     )
